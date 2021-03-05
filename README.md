@@ -7,4 +7,4 @@
 #### Целевая аудитория - 3 млн. человек
 Исходя из [данных](https://vc.ru/media/205039-kinopoisk-hd-rasskazal-o-rekordnyh-3-mln-smotryashchih-podpischikov-v-yanvare) о главных конкуретнах онлайн-кинотеатров на рынке России аудитория пользователей Netflix составит 3 млн. человек.
 
-####[Анализ показателей Netflix в России](https://pro.similarweb.com/#/companyresearch/websiteanalysis/overview/website-performance/netflix.com/*/643/2020.01-2020.03?webSource=Total)
+  [Анализ показателей Netflix в России](https://pro.similarweb.com/#/companyresearch/websiteanalysis/overview/website-performance/netflix.com/*/643/2020.01-2020.03?webSource=Total)
