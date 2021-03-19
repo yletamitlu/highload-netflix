@@ -75,7 +75,7 @@
 #### Итог: примерно 945 862, 144 Гб в день или 945, 862 Тб
 
 ### Загрузка приложения
-(исходя из [анализа загрузки страницы Netflix)](https://gtmetrix.com/reports/www.netflix.com/sRz0KiJW/):
+Исходя из [анализа загрузки страницы Netflix](https://gtmetrix.com/reports/www.netflix.com/sRz0KiJW/):
 3,1 МБ * 100 000 = 310 000 Гб в день
 
 
