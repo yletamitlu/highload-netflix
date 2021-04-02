@@ -90,3 +90,8 @@
 Многовесовой оригинал фильма/серии не раздается пользователям, сначала он сжимается - например, форматом H.265 или HEVC - далее распределенно хранится по различным серверам, и только по запросу контент отдается по протоколам стриминга MPEG DASH или HLS. В процессе отдачи видео транскодируется, учитывая возможности устройства и скорость интернета пользователя. В итоге, пусть сжатие происходит с коэффициентом 1000:1[, тогда](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) помимо оригинальных файлов будут также храниться + 181, 6 Тб.
 
 Источники: [medium.com](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d), [thecode.media](https://thecode.media/zapusk-kino/#tekst3),[habr.com](https://habr.com/ru/post/409583/), [thecode.media](https://thecode.media/zapusk-kino/#tekst3)
+
+## 3. Логическая схема базы данных
+
+![image](https://user-images.githubusercontent.com/60325113/113420396-ee46d700-93d1-11eb-88ca-727e0c0d63ff.png)
+
