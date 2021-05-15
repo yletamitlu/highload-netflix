@@ -37,18 +37,6 @@
 Источник: [help.netflix.com](https://help.netflix.com/en/node/87#:~:text=Watching%20TV%20shows%20or%20movies,each%20stream%20of%20HD%20video.)
 
 
-#### Рекомендации по скорости
-| Качество | Трафик |
-| - | - |
-|Low|0.5 Мбит/сек|
-|Medium|1.5 Мбит/сек|
-|Hight|3.0 Мбит/сек|
-|HD quality|5.0 Мбит/сек|
-|Ultra HD quality|25 Мбит/сек|
-
-Источник: [help.netflix.com](https://help.netflix.com/en/node/306)
-
-
 #### Средняя скорость в России на 2021
 
 ||Десктоп|Мобильный|
