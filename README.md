@@ -19,7 +19,6 @@
 |Количество посетителей в сутки|1 000 000|[forbes.ru](https://www.forbes.ru/tehnologii/419761-my-otstaem-ot-netflix-na-gody-onlayn-kinoteatry-pozhalovalis-na-zaregulirovannost)|
 |Время просмотра контента в сутки (в среднем)|3,2 часа|[pcmag.com](https://www.pcmag.com/news/us-netflix-subscribers-watch-32-hours-and-use-96-gb-of-data-per-day)|
 |Используемые данные подписчиком в сутки (в среднем)|9,6 Гб||
-|Диапазон битрейта видео|1750 кбит/сек - 16000 кбит/сек|[howtogeek.com](https://www.howtogeek.com/338983/how-much-data-does-netflix-use/#:~:text=Most%20videos%20you%20play%20on,or%2059.940%20frames%20per%20second)|
 |Примерное пиковое время и количество пользователей |с 8 до 10 вечера - 50% аудитории за день|[qz.com](https://qz.com/india/989659/netflix-nflx-peak-viewing-hours-are-very-different-in-india-and-argentina-compared-to-the-us-and-europe/#:~:text=Netflix's%20subscribers%20are%20setting%20their,by%20Netflix%E2%80%94the%20US%20included.)|
 |Количество просматриваемых страниц в среднем|3,8|[pro.similarweb.com](https://pro.similarweb.com/#/companyresearch/websiteanalysis/overview/website-performance/netflix.com/*/643/2020.01-2020.03?webSource=Total)|
 |Просмотр с ноутбука|85,58%||
